@@ -2,7 +2,7 @@
 name = "u2net"
 version = "0.1.0"
 description = ""
-authors = ["Jay Mody <jay@praxispioneering.com>"]
+authors = ["Jay Mody <jaykmody@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
